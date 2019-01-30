@@ -1,5 +1,3 @@
-import { Bank } from './Bank'
-
 export class Account {
     public id: string
     public budget: number
